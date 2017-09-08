@@ -1,7 +1,7 @@
 <?php
-//Author: DIMA13051997
-//Script Anti-proxy 1.0
-//https://github.com/DIMA13051997
+//Author: DMITRYLC
+//Script Anti-proxy 1.5
+//https://github.com/DMITRYLC
 
 //IP conclusion
 $ip_addr = $_SERVER['REMOTE_ADDR'];
