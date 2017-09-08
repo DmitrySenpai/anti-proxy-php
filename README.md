@@ -1,5 +1,5 @@
 # anti-proxy-php
-Script PHP  Anti-Proxy 1.0
+Script PHP  Anti-Proxy 1.5
 
 # API
 
