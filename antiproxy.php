@@ -16,7 +16,7 @@ $ip_addr = $_SERVER['REMOTE_ADDR'];
 
 
 //list site
-$url1 = 'http://www.shroomery.org/ythan/proxycheck.php?ip={ip_addres}';
+$url1 = 'http://proxy.mind-media.com/block/proxycheck.php?ip={ip_addres}';
 $url2 = 'http://www.stopforumspam.com/api?ip={ip_addres}';
 $url3 = 'http://www.stopforumspam.com/api?ip=127.0.0.1'; //TEST API stopforumspam.com
 //replacement {ip_addres} to $ip_addr
